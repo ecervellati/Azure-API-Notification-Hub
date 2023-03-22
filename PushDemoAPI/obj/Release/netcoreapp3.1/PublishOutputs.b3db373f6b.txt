@@ -1,0 +1,15 @@
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\PushDemoAPI.exe
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\PushDemoAPI.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\PushDemoAPI.deps.json
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\PushDemoAPI.runtimeconfig.json
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\PushDemoAPI.pdb
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Azure.NotificationHubs.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+C:\Users\ecervellat\source\repos\PushDemoApi\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
